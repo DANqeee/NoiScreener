@@ -1,6 +1,6 @@
-<p align="center"><img src="cover.svg" alt="NoiSkriner — market research workspace" width="100%" /></p>
+<p align="center"><img src="cover.svg" alt="NoiScreener — market research workspace" width="100%" /></p>
 
-# NoiSkriner
+# NoiScreener
 
 **Исследовательский workspace для наблюдения за криптовалютным рынком.**
 
@@ -10,7 +10,7 @@
 
 ## Интерфейс
 
-![NoiSkriner: таблица оконных оценок](interface.png)
+![NoiScreener: таблица оконных оценок](interface.png)
 
 *Архивный снимок интерфейса от 25 октября 2026 года. На изображении — публичные рыночные данные, а не личный счёт. Снимок не отражает текущую ситуацию на рынке.*
 

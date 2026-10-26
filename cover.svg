@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="430" viewBox="0 0 1120 430" role="img" aria-labelledby="title desc">
-  <title id="title">NoiSkriner — Frontend</title>
+  <title id="title">NoiScreener — Frontend</title>
   <desc id="desc">DANqeee. Локальный прототип · В разработке HTML, CSS, JavaScript. Open to internship.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#161b26"/></linearGradient>
@@ -15,7 +15,7 @@
   <circle cx="889" cy="28" r="3" fill="#8ce5c0"/>
   <text x="902" y="32" font-family="Consolas,monospace" font-size="11" letter-spacing="1" fill="#a4ebce">IN DEVELOPMENT</text>
   <text x="48" y="104" font-family="Consolas,monospace" font-size="13" letter-spacing="3" fill="#8ce5c0">DATA + INTERFACE / WORKSPACE</text>
-  <text x="44" y="191" font-family="Arial,sans-serif" font-weight="700" font-size="68" letter-spacing="-4" fill="#edf3fc">NoiSkriner<tspan fill="#8ce5c0">.</tspan></text>
+  <text x="44" y="191" font-family="Arial,sans-serif" font-weight="700" font-size="68" letter-spacing="-4" fill="#edf3fc">NoiScreener<tspan fill="#8ce5c0">.</tspan></text>
   <text x="48" y="238" font-family="Arial,sans-serif" font-size="31" font-weight="500" fill="url(#accent)">Market research</text>
   <text x="48" y="274" font-family="Consolas,monospace" font-size="16" fill="#aab7ca">Learning by building.</text>
   <path d="M48 303H487" stroke="#30394a"/>
@@ -29,7 +29,7 @@
   <path d="M570 146H1072" stroke="#30394a"/>
   <g font-family="Consolas,monospace" font-size="17">
     <text x="594" y="184" fill="#b2a6fa">const <tspan fill="#edf3fc">workspace = {</tspan></text>
-    <text x="616" y="216" fill="#aab7ca">name: <tspan fill="#8ce5c0">'NoiSkriner'</tspan>,</text>
+    <text x="616" y="216" fill="#aab7ca">name: <tspan fill="#8ce5c0">'NoiScreener'</tspan>,</text>
     <text x="616" y="248" fill="#aab7ca">focus: <tspan fill="#8ce5c0">'React + TypeScript'</tspan>,</text>
     <text x="616" y="280" fill="#aab7ca">next: <tspan fill="#8ce5c0">'local prototype'</tspan></text>
     <text x="594" y="312" fill="#edf3fc">};<tspan fill="#8ce5c0"> ▌</tspan></text>
