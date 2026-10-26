@@ -10,7 +10,7 @@
   <rect x="1" y="54" width="1118" height="375" rx="18" fill="url(#grid)"/>
   <path d="M1 54H1119" stroke="#30394a"/>
   <circle cx="27" cy="28" r="5" fill="#ff6d78"/><circle cx="47" cy="28" r="5" fill="#e8c275"/><circle cx="67" cy="28" r="5" fill="#8ce5c0"/>
-  <text x="92" y="33" font-family="Consolas,monospace" font-size="14" fill="#aab7ca">danqeee@github: ~/noiskriner</text>
+  <text x="92" y="33" font-family="Consolas,monospace" font-size="14" fill="#aab7ca">danqeee@github: ~/noiscreener</text>
   <rect x="872" y="17" width="222" height="23" rx="11.5" fill="#8ce5c0" fill-opacity=".1" stroke="#8ce5c0" stroke-opacity=".25"/>
   <circle cx="889" cy="28" r="3" fill="#8ce5c0"/>
   <text x="902" y="32" font-family="Consolas,monospace" font-size="11" letter-spacing="1" fill="#a4ebce">IN DEVELOPMENT</text>
