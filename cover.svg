@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="430" viewBox="0 0 1120 430" role="img" aria-labelledby="title desc">
+  <title id="title">NoiSkriner — Frontend</title>
+  <desc id="desc">DANqeee. Локальный прототип · В разработке HTML, CSS, JavaScript. Open to internship.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#161b26"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#8ce5c0"/><stop offset="1" stop-color="#b2a6fa"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#75829a" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1118" height="428" rx="18" fill="url(#bg)" stroke="#30394a"/>
+  <rect x="1" y="54" width="1118" height="375" rx="18" fill="url(#grid)"/>
+  <path d="M1 54H1119" stroke="#30394a"/>
+  <circle cx="27" cy="28" r="5" fill="#ff6d78"/><circle cx="47" cy="28" r="5" fill="#e8c275"/><circle cx="67" cy="28" r="5" fill="#8ce5c0"/>
+  <text x="92" y="33" font-family="Consolas,monospace" font-size="14" fill="#aab7ca">danqeee@github: ~/noiskriner</text>
+  <rect x="872" y="17" width="222" height="23" rx="11.5" fill="#8ce5c0" fill-opacity=".1" stroke="#8ce5c0" stroke-opacity=".25"/>
+  <circle cx="889" cy="28" r="3" fill="#8ce5c0"/>
+  <text x="902" y="32" font-family="Consolas,monospace" font-size="11" letter-spacing="1" fill="#a4ebce">IN DEVELOPMENT</text>
+  <text x="48" y="104" font-family="Consolas,monospace" font-size="13" letter-spacing="3" fill="#8ce5c0">DATA + INTERFACE / WORKSPACE</text>
+  <text x="44" y="191" font-family="Arial,sans-serif" font-weight="700" font-size="68" letter-spacing="-4" fill="#edf3fc">NoiSkriner<tspan fill="#8ce5c0">.</tspan></text>
+  <text x="48" y="238" font-family="Arial,sans-serif" font-size="31" font-weight="500" fill="url(#accent)">Market research</text>
+  <text x="48" y="274" font-family="Consolas,monospace" font-size="16" fill="#aab7ca">Learning by building.</text>
+  <path d="M48 303H487" stroke="#30394a"/>
+  <g font-family="Consolas,monospace" font-size="13">
+    <rect x="48" y="325" width="81" height="31" rx="7" fill="#202630" stroke="#3b4557"/><text x="69" y="345" fill="#f0b28d">HTML</text>
+    <rect x="141" y="325" width="71" height="31" rx="7" fill="#202630" stroke="#3b4557"/><text x="164" y="345" fill="#9bbdff">CSS</text>
+    <rect x="224" y="325" width="131" height="31" rx="7" fill="#202630" stroke="#3b4557"/><text x="244" y="345" fill="#eed58a">JavaScript</text>
+  </g>
+  <rect x="570" y="100" width="502" height="256" rx="12" fill="#0d1117" stroke="#30394a"/>
+  <text x="594" y="130" font-family="Consolas,monospace" font-size="12" fill="#738198">workspace.js</text>
+  <path d="M570 146H1072" stroke="#30394a"/>
+  <g font-family="Consolas,monospace" font-size="17">
+    <text x="594" y="184" fill="#b2a6fa">const <tspan fill="#edf3fc">workspace = {</tspan></text>
+    <text x="616" y="216" fill="#aab7ca">name: <tspan fill="#8ce5c0">'NoiSkriner'</tspan>,</text>
+    <text x="616" y="248" fill="#aab7ca">focus: <tspan fill="#8ce5c0">'React + TypeScript'</tspan>,</text>
+    <text x="616" y="280" fill="#aab7ca">next: <tspan fill="#8ce5c0">'local prototype'</tspan></text>
+    <text x="594" y="312" fill="#edf3fc">};<tspan fill="#8ce5c0"> ▌</tspan></text>
+  </g>
+  <text x="48" y="397" font-family="Consolas,monospace" font-size="12" fill="#738198">@DANqeee</text>
+  <text x="1070" y="397" text-anchor="end" font-family="Consolas,monospace" font-size="12" fill="#738198">product showcase · source code not included</text>
+</svg>
